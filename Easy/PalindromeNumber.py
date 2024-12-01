@@ -13,8 +13,6 @@ Output: false
 
 Input: 10
 Output: false
-
-Testing comment
 '''
 def isPalindrome(x: int) -> bool:
     if i < 0 or (i and i % 10 == 0):
