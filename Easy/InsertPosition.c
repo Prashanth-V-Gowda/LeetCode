@@ -18,8 +18,6 @@ Output: 4
 
 */
 #include <stdio.h>
-#include <math.h>
-
 
 int searchInsert(int* nums, int numsSize, int target)
  {
